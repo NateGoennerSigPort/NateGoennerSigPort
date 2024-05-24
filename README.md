@@ -18,5 +18,7 @@ Project 4: https://github.com/NateGoennerSigPort/LegacyCalc
 
 This is a pretty simple calculator program which does stuff like mean and standard deviation. The cool part about this is that is uses Fortran code. This is an older programming langauge I learned in a legacy coding class alongside COBOL. Newer programs are probably not being made in this langaugages much today but learning them is important to maintain older code already in usage. 
 
-Project 5:
+Project 5: https://github.com/NateGoennerSigPort/AlterQuicksort
+
+This pretty much just quicksort with a little twist. I believe we added in aspects of merge sort. We were learning about both sorting algorithms and run times. To this end, we also wanted to provide some test cases and see how much time was taken for sorting. There was a large increase in time the longer the sorted array was. 
 
